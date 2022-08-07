@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\bin\Debug\net6.0\чётность числа.exe
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\bin\Debug\net6.0\чётность числа.deps.json
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\bin\Debug\net6.0\чётность числа.runtimeconfig.json
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\bin\Debug\net6.0\чётность числа.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\bin\Debug\net6.0\чётность числа.pdb
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\refint\чётность числа.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.pdb
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\чётность числа.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\чётность числа\obj\Debug\net6.0\ref\чётность числа.dll

@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\bin\Debug\net6.0\maximum of three numbers.exe
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\bin\Debug\net6.0\maximum of three numbers.deps.json
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\bin\Debug\net6.0\maximum of three numbers.runtimeconfig.json
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\bin\Debug\net6.0\maximum of three numbers.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\bin\Debug\net6.0\maximum of three numbers.pdb
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\refint\maximum of three numbers.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.pdb
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\maximum of three numbers.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\maximum of three numbers\obj\Debug\net6.0\ref\maximum of three numbers.dll

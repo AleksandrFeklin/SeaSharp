@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\bin\Debug\net6.0\MAX and MIN.exe
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\bin\Debug\net6.0\MAX and MIN.deps.json
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\bin\Debug\net6.0\MAX and MIN.runtimeconfig.json
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\bin\Debug\net6.0\MAX and MIN.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\bin\Debug\net6.0\MAX and MIN.pdb
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\refint\MAX and MIN.dll
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.pdb
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\MAX and MIN.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\SeminarC#\Lesson1Dz\MAX and MIN\obj\Debug\net6.0\ref\MAX and MIN.dll
