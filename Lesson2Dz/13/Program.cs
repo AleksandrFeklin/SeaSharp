@@ -9,7 +9,8 @@
 Console.WriteLine ("Введите число: ");
 string? numberString = Console.ReadLine ();
 int number=  int.Parse (numberString!);
-
+if (number<0)
+    number = number*-1;
 if (number>999)
 {
      while (number > 999)
@@ -18,8 +19,6 @@ if (number>999)
      }
 }
 
-if (number<0)
-    number = number*-1;
 if (number<100)
     Console.WriteLine ("Третья цифра отсутствует ");
 else

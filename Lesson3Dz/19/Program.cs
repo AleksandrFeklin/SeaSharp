@@ -9,8 +9,8 @@
 // 23432 -> да
 
 Console.WriteLine("Введите пятизначное число:");
-var number = int.Parse(Console.ReadLine()!);
-
+string? numberString = Console.ReadLine()!;
+int number = int.Parse(numberString);
 int number1 = number / 10000;                            
 int number2 = number / 1000 - number1 * 10; 
 int number3 = (number/100) - ((number/1000)*10);             
