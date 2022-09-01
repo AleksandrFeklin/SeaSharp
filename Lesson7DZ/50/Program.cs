@@ -22,7 +22,7 @@ if (!int.TryParse(Console.ReadLine()!, out var n))
 }
 Console.WriteLine();
 
-int[,] CreateArrayWithRandomNumbers(int m, int n,int min, int max)
+int[,] CreateArrayWithRandomNumbers(int m, int n, int min, int max)
 {
     int[,] result = new int[m, n];
 
@@ -56,15 +56,16 @@ int ElementofReturn(int[,] array, int m, int n)
     int element = 0;
 
     for (int i = 0; i < array.GetLength(0); i++)
-    {
+
         for (int j = 0; j < array.GetLength(1); j++)
         {
             if (i == m - 1 && j == n - 1) element = array[i, j];
         }
-    }
+
     return element;
+
 }
-int[,] array = CreateArrayWithRandomNumbers(7,5,0,100);
+int[,] array = CreateArrayWithRandomNumbers(7, 5, 0, 100);
 PrintArray(array);
 Console.WriteLine();
 

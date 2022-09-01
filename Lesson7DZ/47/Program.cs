@@ -6,6 +6,7 @@
 
 
 void PrintArray(double[,] array)
+
 {
     for (var i = 0; i < array.GetLength(0); i++)
     {
@@ -19,6 +20,7 @@ void PrintArray(double[,] array)
 }
 
 double[,] CreateArrayWithRandomNumbers(int m, int n)
+
 {
     double[,] result = new double[m, n];
 
